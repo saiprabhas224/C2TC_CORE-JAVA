@@ -4,7 +4,8 @@ public class Length {
 
 	public static void main(String[] args) {
 		String s ="siri";
-		System.out.println(s.length());
+		int w = s.length();
+		System.out.println(w);
 
 	}
 
